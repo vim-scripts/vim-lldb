@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4917
+
+This plugin provides lldb debbugging integration including
+
+* breakpoints
+* watchpoints
+* threads view
+* locals view
+* and more ...
+
+Arbitrary valid lldb commands can be invoked as well.
+
+The plugin is hosted at : https://github.com/gilligan/vim-lldb
